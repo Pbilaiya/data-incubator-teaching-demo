@@ -1,0 +1,201 @@
+date,pizzeria,toppings,calories
+2006-01-01 02:10:21,Pepe's,"['Venison', 'Green Bell Peppers', 'Eggplant']",278
+2006-01-02 03:28:57,Modern,"['BBQ Sauce', 'Falafel']",356
+2006-01-02 12:14:35,Pepe's,"['Basil', 'Provolone']",314
+2006-01-04 07:59:58,Pepe's,,239
+2006-01-09 22:21:53,Pepe's,"['BBQ Sauce', 'Habanero Peppers']",289
+2006-01-12 20:09:54,Pepe's,"['Capers', 'Arugula', 'Mushroom']",294
+2006-01-13 22:35:13,Modern,['Buffalo Mozzarella'],344
+2006-01-15 09:47:57,Modern,,321
+2006-01-20 11:05:35,Modern,['Banana Peppers'],310
+2006-01-24 18:11:23,Pepe's,"['Ricotta Cheese', 'Hot dog']",292
+2006-01-27 21:19:19,Pepe's,"['Emmental', 'Garlic', 'Hamburger']",278
+2006-01-28 09:49:35,Pepe's,,235
+2006-01-29 01:08:04,Pepe's,['Basil'],260
+2006-01-29 04:07:33,Pepe's,['Asiago Cheese'],273
+2006-02-02 19:56:14,Modern,['Swedish Meatballs'],293
+2006-02-06 20:46:02,Pepe's,"['Spinach', 'Ricotta Cheese', 'Ham', 'Fried clams']",306
+2006-02-08 03:39:12,Modern,"['Pepperoni', 'Tomato', 'Black Olives', 'Mozzarella']",383
+2006-02-09 14:08:30,Modern,"['Feta Cheese', 'Swedish Meatballs']",372
+2006-02-14 04:19:32,Pepe's,"['Tomato', 'Jalapeño']",296
+2006-02-14 21:06:25,Modern,,274
+2006-02-18 03:06:06,Pepe's,"['Goat cheese', 'Chicken', 'Hamburger']",299
+2006-02-19 07:13:54,Modern,"['Canadian Bacon', 'Emmental', 'Fried clams', 'Mozzarella']",364
+2006-02-20 11:44:07,Pepe's,"['Caramelised Onions', 'Seafood']",284
+2006-02-21 16:59:32,Modern,"['Pineapple', 'Prosciutto', 'Capsicum', 'Philly Steak']",443
+2006-02-22 22:23:50,Modern,['Shrimps'],340
+2006-02-28 03:58:41,Modern,"['Crab Meat', 'Red Onion']",361
+2006-03-01 21:47:50,Modern,"['Duck', 'Emmental']",350
+2006-03-02 08:05:08,Pepe's,['Emmental'],293
+2006-03-03 15:28:27,Pepe's,"['Jalapeño', 'Shrimps']",297
+2006-03-05 23:20:22,Pepe's,"['Beef', 'Capers', 'Mozzarella']",314
+2006-03-08 17:15:17,Modern,,298
+2006-03-11 09:06:38,Pepe's,"['Crab Meat', 'Crab Meat']",292
+2006-03-12 08:42:00,Pepe's,,256
+2006-03-12 17:04:27,Modern,['Feta Cheese'],318
+2006-03-14 05:08:15,Pepe's,"['Prosciutto', 'Prosciutto', 'Tuna']",307
+2006-03-15 05:45:47,Modern,"['Shrimps', 'Peperoncini', 'Swedish Meatballs', 'Artichoke Hearts']",369
+2006-03-16 21:38:25,Pepe's,"['Hot dog', 'Red Bell Pepper', 'Eggplant']",293
+2006-03-18 03:23:43,Modern,"['Mushroom', 'Bacon', 'Onion']",386
+2006-03-21 17:57:58,Modern,"['Provolone', 'Beef', 'Parmigiano Reggiano', 'Hamburger']",341
+2006-03-22 15:17:28,Modern,"['Red Bell Pepper', 'Red Bell Pepper']",329
+2006-03-24 13:04:05,Pepe's,"['Tuna', 'Red Bell Pepper']",303
+2006-03-24 18:51:08,Modern,,315
+2006-03-26 14:09:38,Modern,['Basil'],310
+2006-03-27 16:03:25,Pepe's,"['BBQ Sauce', 'Eggplant']",292
+2006-03-28 08:30:30,Pepe's,"['Prosciutto', 'Shrimps']",261
+2006-03-29 05:53:16,Modern,"['Asiago Cheese', 'Green Bell Peppers', 'Mozzarella']",329
+2006-03-29 18:33:42,Modern,"['Squid', 'Bacon', 'Venison']",373
+2006-03-31 10:57:26,Modern,"['Provolone', 'Meatballs', 'Red Bell Pepper', 'Green Olives']",429
+2006-04-01 04:56:31,Pepe's,"['Capers', 'Venison', 'Goat cheese', 'Asiago Cheese']",363
+2006-04-05 12:23:32,Modern,,303
+2006-04-05 21:05:55,Pepe's,"['Eggplant', 'Onion']",285
+2006-04-06 13:39:59,Modern,"['Italian Sweet Pepper', 'Emmental', 'Tomato', 'Tomato']",387
+2006-04-08 17:40:24,Modern,,285
+2006-04-12 07:14:39,Modern,"['Philly Steak', 'Capicola', 'Mozzarella']",369
+2006-04-14 09:12:11,Modern,['Goat cheese'],315
+2006-04-16 22:56:56,Modern,"['Goat cheese', 'Black Olives', 'Falafel']",347
+2006-04-20 05:27:10,Pepe's,,238
+2006-04-21 01:12:58,Modern,,298
+2006-04-22 11:02:34,Modern,"['Sun-Dried Tomatoes', 'Philly Steak', 'BBQ Pulled Pork']",350
+2006-04-26 19:16:27,Pepe's,"['BBQ Pulled Pork', 'Crackerbread']",262
+2006-04-30 03:20:13,Pepe's,"['Crab Meat', 'Tuna', 'Goat cheese']",340
+2006-04-30 19:16:48,Modern,,302
+2006-05-03 02:59:06,Pepe's,"['Falafel', 'Red Bell Pepper', 'Salami', 'Pepperoni']",337
+2006-05-04 23:12:29,Pepe's,['Sauerkraut'],257
+2006-05-06 13:26:07,Modern,"['Venison', 'Beef']",345
+2006-05-10 07:09:30,Pepe's,"['Asiago Cheese', 'Banana Peppers', 'Pepperoni']",296
+2006-05-11 15:41:10,Pepe's,"['Sausage', 'Pepperoni']",275
+2006-05-12 05:19:31,Modern,,307
+2006-05-12 21:46:23,Pepe's,"['Italian Sausage', 'Seafood', 'Jalapeño']",305
+2006-05-14 13:08:07,Modern,,309
+2006-05-18 22:16:10,Pepe's,"['BBQ Sauce', 'Italian Sweet Pepper', 'Sauerkraut', 'Shrimps']",339
+2006-05-20 20:25:11,Pepe's,['Pepperoni'],267
+2006-05-28 13:55:21,Modern,['Anchovy'],316
+2006-06-02 20:05:44,Modern,"['Oysters', 'Swedish Meatballs', 'Philly Steak']",367
+2006-06-03 02:47:45,Modern,"['Feta Cheese', 'Banana Peppers', 'Swedish Meatballs', 'Mushroom']",384
+2006-06-05 19:05:15,Modern,['Capsicum'],309
+2006-06-08 06:05:00,Pepe's,"['Anchovy', 'Capers', 'Mushroom']",303
+2006-06-09 12:29:13,Modern,"['Eggplant', 'Capers', 'Crackerbread', 'Parmigiano Reggiano']",349
+2006-06-11 14:56:05,Pepe's,"['Duck', 'Gorgonzola', 'Capers', 'Onion']",311
+2006-06-14 06:03:10,Modern,"['Buffalo Mozzarella', 'Banana Peppers', 'Beef']",356
+2006-06-14 20:43:53,Modern,['Shellfish'],300
+2006-06-15 09:43:38,Modern,,297
+2006-06-18 00:28:34,Pepe's,['Pineapple'],251
+2006-06-18 00:45:42,Modern,"['Chorizo', 'Feta Cheese']",306
+2006-06-20 05:53:12,Pepe's,['Beef'],301
+2006-06-20 16:44:10,Modern,['Peperoncini'],324
+2006-06-21 16:26:27,Modern,"['Banana Peppers', 'Chicken', 'BBQ Pulled Pork']",365
+2006-06-24 04:04:58,Pepe's,"['Hamburger', 'Egg', 'Green Bell Peppers']",310
+2006-07-02 05:39:32,Pepe's,,265
+2006-07-02 21:07:00,Modern,,272
+2006-07-05 02:47:52,Modern,"['Broccoli', 'Green Olives']",308
+2006-07-05 05:17:39,Modern,"['Fried clams', 'Artichoke', 'Tomato', 'Oysters']",372
+2006-07-08 00:09:40,Pepe's,"['Egg', 'Prosciutto']",279
+2006-07-08 01:04:34,Modern,"['Seafood', 'Salami']",392
+2006-07-08 17:04:12,Modern,"['Parmigiano Reggiano', 'Crab Meat', 'Capers']",379
+2006-07-08 19:08:35,Modern,"['Chorizo', 'Oysters', 'Shrimps', 'Cherry Tomatoes']",410
+2006-07-09 01:17:40,Pepe's,"['Gyro Meat', 'Crushed Red Pepper']",296
+2006-07-09 05:10:07,Modern,"['Arugula', 'Spinach', 'Fried clams', 'Sauerkraut']",390
+2006-07-10 00:14:33,Modern,,318
+2006-07-10 15:09:19,Pepe's,"['Falafel', 'Spinach', 'Italian Sweet Pepper']",316
+2006-07-11 01:08:35,Modern,,269
+2006-07-12 19:47:02,Modern,['Philly Steak'],315
+2006-07-13 08:16:46,Modern,,293
+2006-07-13 20:39:34,Modern,"['Mushroom', 'Goat cheese']",334
+2006-07-13 21:29:56,Pepe's,"['Ham', 'BBQ Pulled Pork', 'Gorgonzola', 'Duck']",381
+2006-07-16 16:40:19,Pepe's,['Caramelised Onions'],261
+2006-07-19 10:45:36,Modern,"['Hamburger', 'Artichoke', 'Green Olives']",382
+2006-07-20 02:03:08,Modern,"['Capers', 'Pesto']",363
+2006-07-23 08:18:03,Pepe's,,247
+2006-07-24 17:57:52,Modern,"['Tomato', 'Buffalo Chicken Strips', 'Ham', 'Peperoncini']",371
+2006-07-25 06:23:47,Pepe's,"['Provolone', 'BBQ Pulled Pork', 'Capers']",297
+2006-07-26 23:56:13,Pepe's,"['Red Bell Pepper', 'Red Bell Pepper', 'Crushed Red Pepper']",294
+2006-07-30 02:41:28,Pepe's,"['Green Bell Peppers', 'Asiago Cheese', 'Sweetcorn', 'Crab Meat']",367
+2006-08-01 01:03:56,Pepe's,,238
+2006-08-03 03:20:14,Modern,,289
+2006-08-05 17:21:28,Pepe's,"['Buffalo Mozzarella', 'Duck', 'Prosciutto', 'BBQ Pulled Pork']",302
+2006-08-09 17:03:39,Modern,"['Red Bell Pepper', 'BBQ Pulled Pork']",325
+2006-08-10 05:48:45,Modern,['Red Onion'],333
+2006-08-12 03:29:11,Pepe's,['Crackerbread'],260
+2006-08-14 01:03:07,Pepe's,"['Habanero Peppers', 'Meatballs']",280
+2006-08-19 11:37:06,Modern,"['Artichoke', 'BBQ Sauce', 'Artichoke Hearts']",381
+2006-08-24 07:17:47,Pepe's,['Peperoncini'],273
+2006-08-24 11:13:07,Modern,"['Parmigiano Reggiano', 'Banana Peppers']",337
+2006-08-28 14:10:24,Pepe's,"['Pesto', 'Venison', 'Mozzarella', 'Anchovy']",330
+2006-08-28 16:53:46,Modern,,285
+2006-08-29 12:30:21,Modern,,297
+2006-09-03 14:33:00,Pepe's,"['Venison', 'Banana Peppers', 'Buffalo Mozzarella', 'Egg']",331
+2006-09-05 05:57:23,Modern,"['BBQ Sauce', 'Gyro Meat', 'Shellfish', 'Swedish Meatballs']",365
+2006-09-07 01:17:25,Modern,,315
+2006-09-08 07:17:29,Modern,"['Asiago Cheese', 'Peperoncini', 'Tuna', 'Seafood']",354
+2006-09-09 17:15:36,Pepe's,['Italian Sausage'],273
+2006-09-11 14:12:30,Modern,['Italian Sausage'],314
+2006-09-12 02:37:06,Pepe's,"['Shrimps', 'Artichoke']",308
+2006-09-13 02:01:32,Pepe's,"['Salami', 'Crab Meat', 'Italian Sausage', 'Oregano']",329
+2006-09-14 09:29:16,Pepe's,['Buffalo Chicken Strips'],288
+2006-09-15 07:27:10,Pepe's,"['Mushroom', 'Alfredo Sauce']",277
+2006-09-15 23:06:05,Pepe's,"['Eggplant', 'Tuna', 'Falafel', 'Philly Steak']",307
+2006-09-18 08:06:15,Pepe's,"['Falafel', 'Banana Peppers', 'Parmigiano Reggiano', 'Broccoli']",331
+2006-09-20 16:22:29,Pepe's,"['Falafel', 'Oysters', 'Crab Meat', 'Capers']",353
+2006-09-21 22:37:04,Modern,"['Basil', 'Pepperoni', 'Egg', 'Artichoke']",371
+2006-09-22 19:08:46,Modern,"['Mushroom', 'Red Bell Pepper']",318
+2006-09-23 19:51:51,Pepe's,"['Italian Sausage', 'Cherry Tomatoes']",290
+2006-09-25 00:15:05,Modern,"['Caramelised Onions', 'Capers']",344
+2006-09-25 23:52:56,Pepe's,,252
+2006-09-26 12:59:37,Modern,['Red Onion'],314
+2006-09-27 13:57:12,Pepe's,"['BBQ Sauce', 'Green Olives', 'Provolone', 'Habanero Peppers']",332
+2006-10-03 04:57:26,Pepe's,['Oysters'],247
+2006-10-04 13:16:12,Pepe's,"['Hamburger', 'Ricotta Cheese']",248
+2006-10-07 09:13:56,Modern,"['Chicken', 'Salami', 'Jalapeño']",374
+2006-10-08 08:27:44,Pepe's,"['Canadian Bacon', 'Anchovy']",309
+2006-10-10 03:26:51,Modern,,307
+2006-10-12 08:51:00,Modern,,288
+2006-10-13 00:05:32,Pepe's,"['Oregano', 'Tuna', 'Ricotta Cheese']",310
+2006-10-13 05:03:33,Pepe's,"['Artichoke', 'Sweetcorn']",276
+2006-10-15 16:10:54,Modern,"['Seafood', 'Crab Meat', 'Swedish Meatballs', 'Peperoncini']",389
+2006-10-17 08:32:44,Modern,['BBQ Sauce'],305
+2006-10-24 00:09:31,Modern,"['Capers', 'Habanero Peppers', 'Duck', 'Onion']",381
+2006-10-24 01:55:07,Pepe's,"['Gorgonzola', 'Venison', 'Shrimps', 'Spinach']",335
+2006-10-25 20:42:04,Modern,"['Seafood', 'Oregano', 'Red Onion', 'Hamburger']",394
+2006-10-28 20:10:29,Modern,,285
+2006-11-07 04:48:00,Pepe's,"['Mushroom', 'Capers', 'Hot dog']",309
+2006-11-09 08:04:23,Pepe's,"['Crab Meat', 'Mozzarella']",284
+2006-11-09 18:15:05,Modern,"['Seafood', 'Buffalo Mozzarella']",357
+2006-11-11 01:48:49,Modern,"['Crushed Red Pepper', 'Buffalo Chicken Strips']",342
+2006-11-11 13:12:02,Pepe's,"['Spinach', 'Sun-Dried Tomatoes']",304
+2006-11-13 02:53:18,Pepe's,['Onion'],291
+2006-11-17 13:36:34,Modern,['Tomato'],291
+2006-11-19 10:39:06,Pepe's,"['Garlic', 'Falafel', 'BBQ Pulled Pork']",236
+2006-11-21 00:38:13,Modern,"['Onion', 'Prosciutto', 'Red Bell Pepper']",317
+2006-11-23 21:21:23,Pepe's,"['Goat cheese', 'Mozzarella', 'Cherry Tomatoes', 'Chicken']",328
+2006-11-24 14:12:13,Modern,['Chorizo'],341
+2006-11-26 10:19:06,Pepe's,,271
+2006-11-29 13:44:00,Pepe's,"['Sun-Dried Tomatoes', 'Capers']",279
+2006-12-01 05:59:29,Pepe's,"['Tomato', 'Red Onion', 'Garlic', 'Hot dog']",348
+2006-12-02 17:21:01,Pepe's,"['Onion', 'Buffalo Chicken Strips', 'Anchovy']",305
+2006-12-03 10:25:29,Pepe's,"['Salami', 'Anchovy', 'Tomato', 'Chicken']",351
+2006-12-03 18:29:02,Modern,"['Ham', 'Alfredo Sauce', 'Sauerkraut', 'Ricotta Cheese']",363
+2006-12-05 11:10:32,Pepe's,"['Tuna', 'Italian Sausage', 'Red Bell Pepper', 'Shellfish']",331
+2006-12-05 23:52:24,Modern,['Pineapple'],327
+2006-12-07 08:54:35,Pepe's,"['BBQ Sauce', 'Meatballs']",277
+2006-12-08 11:08:26,Pepe's,,264
+2006-12-11 01:21:42,Pepe's,"['Mushroom', 'Provolone', 'Emmental', 'Shellfish']",297
+2006-12-11 20:10:24,Modern,"['Pepperoni', 'Mozzarella', 'Falafel', 'Shrimps']",345
+2006-12-12 17:22:34,Modern,['Tomato'],319
+2006-12-14 09:17:27,Modern,['Italian Sausage'],295
+2006-12-15 20:50:38,Modern,,274
+2006-12-17 02:04:10,Modern,['Provolone'],316
+2006-12-18 11:51:01,Pepe's,['Provolone'],302
+2006-12-19 13:17:45,Pepe's,"['Jalapeño', 'Beef', 'Italian Sweet Pepper', 'Hot dog']",291
+2006-12-20 05:36:30,Pepe's,"['Pepperoni', 'Chicken', 'Feta Cheese', 'Pesto']",312
+2006-12-20 11:42:13,Modern,"['Capicola', 'Oysters']",326
+2006-12-21 01:55:35,Modern,,323
+2006-12-22 07:38:09,Pepe's,"['Caramelised Onions', 'Buffalo Mozzarella', 'Seafood', 'Pesto']",321
+2006-12-22 08:37:23,Pepe's,"['Artichoke', 'Anchovy']",299
+2006-12-23 15:56:37,Pepe's,,265
+2006-12-24 04:27:06,Pepe's,,249
+2006-12-25 14:07:36,Pepe's,"['Basil', 'Oregano']",315
+2006-12-27 14:57:23,Modern,"['Falafel', 'Red Onion', 'Pesto']",348
+2006-12-29 04:22:49,Pepe's,['Mushroom'],267
+2006-12-29 21:43:22,Pepe's,"['Salami', 'Crab Meat']",273
