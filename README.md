@@ -20,7 +20,7 @@ And the following extension:
 
 * [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 
-If you don't want to install any of this, you can launch the repository in as a [binder](https://mybinder.org). Click on the button above.
+If you don't want to install any of this, you can launch the repository in as a [binder](https://mybinder.org). Click on the button above. It may take a few minutes to load.
 
 # Resume
 
