@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/doctornerdis/data-incubator-teaching-demo/master?filepath=teaching-demo.ipynb)
 
-Thank you for considering my application to be a Data Scientist in Residence at the Data Incubator. For my demonstration, I've been asked to prepare a Jupyter Notebook that provides and accessible explanation of hypothesis testing and Bayesian posterior inference.
+Thank you for considering my application to be a Data Scientist in Residence at the Data Incubator. For my demonstration, I've been asked to prepare a Jupyter Notebook that provides an accessible explanation of hypothesis testing and Bayesian posterior inference.
 
 My demonstration notebook is available [here](teaching-demo.ipynb). If you'd like to see how I generated the data I use in the demo, there is a separate notebook [here](create-pizza-data.ipynb).
 
