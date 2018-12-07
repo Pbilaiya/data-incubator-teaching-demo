@@ -1,11 +1,14 @@
 import warnings
 import numpy as np
 
-def fxn1():
-    warnings.warn("deprecated", DeprecationWarning)
+#def fxn1():
+#    warnings.warn("deprecated", DeprecationWarning)
 
-with warnings.catch_warnings():
-    warnings.simplefilter("ignore")
-    fxn1()
+#with warnings.catch_warnings():
+#    warnings.simplefilter("ignore")
+#    fxn1()
 
 np.warnings.filterwarnings('ignore', r'invalid value encountered in less_equal')
+
+warnings.simplefilter(action='ignore', category=FutureWarning)
+warnings.simplefilter(action='ignore', category=DeprecationWarning)
